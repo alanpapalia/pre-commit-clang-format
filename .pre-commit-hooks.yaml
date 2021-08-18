@@ -1,6 +1,6 @@
--   id: clang-format
-    name: clang-format
-    description: Format files with ClangFormat.
+-   id: clang-format-12
+    name: clang-format-12
+    description: Format files with ClangFormat Version 12.
     entry: clang-format-12 -i
     language: system
     files: \.(c|cc|cxx|cpp|frag|glsl|h|hpp|hxx|ih|ispc|ipp|java|js|m|mm|proto|textproto|vert)$
